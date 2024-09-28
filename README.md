@@ -28,6 +28,7 @@ If you're using `powershell.exe`
 ```
 git clone https://github.com/nvim-lua/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
 ```
+</details>
 
 Neovim's configurations are located under the following paths, depending on your OS:
 
